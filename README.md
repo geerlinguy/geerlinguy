@@ -1,4 +1,4 @@
-Find the **real** Jeff Geerling latest work and links to his YouTube, Twitter, etc. on my website: www.jeffgeerling.com.
+Find the **real** Jeff Geerling latest work and links to his YouTube, Twitter, etc. on his website: www.jeffgeerling.com.
 
 If you like **his** work and want him to be able to keep improving it, please sponsor him on GitHub.
 
